@@ -1,0 +1,14 @@
+git init
+
+# Add all files to staging
+git add .
+
+# Create initial commit
+git commit -m "Initial commit: Sleep & Stress + app with ML analytics
+
+- React Native app with TypeScript and Expo
+- Node.js backend with ML analytics pipeline
+- Python integration scripts
+- Correlation analysis and GI flare prediction
+- Modern UI with Redux state management
+- Complete health tracking system matching Python schema"
