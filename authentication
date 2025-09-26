@@ -1,0 +1,3 @@
+# Use your GitHub username and personal access token
+git remote set-url origin https://your-username:your-token@github.com/jonnyterrero/Sleep-tracker-Stress-Mood-logger.git
+git push -u origin main
