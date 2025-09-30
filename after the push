@@ -1,0 +1,15 @@
+# Clone the repository in your OneDrive folder
+cd "C:\Users\JTerr\OneDrive\Programming Projects\Sleep Tracker + Stress & Mood Logger"
+git clone https://github.com/jonnyterrero/Sleep-tracker-Stress-Mood-logger.git
+
+# Install dependencies
+cd Sleep-tracker-Stress-Mood-logger
+npm install
+
+# Install backend dependencies
+cd server
+npm install
+
+# Start development
+npm run dev  # Backend
+npm start    # React Native app

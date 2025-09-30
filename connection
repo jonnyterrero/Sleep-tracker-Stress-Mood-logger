@@ -1,0 +1,4 @@
+git remote add origin https://github.com/jonnyterrero/Sleep-tracker-Stress-Mood-logger.git
+
+# Push to GitHub
+git push -u origin main
